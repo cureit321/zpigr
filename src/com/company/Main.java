@@ -3,7 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write
+        System.out.println("Pierwasza linia gałęzi main");
+        System.out.println("Druga linia z gałęzi main");
 
     }
 }
